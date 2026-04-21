@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي نور العيون
+> في هواكِ قلبي مجنون
+> نار الشوق في دمي تثور
+> أنتِ قمري بين البدور
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
