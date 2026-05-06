@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/qesset-hob/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Qesset Hob](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
