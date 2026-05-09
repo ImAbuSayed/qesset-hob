@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Qesset Hob
+
+This log tracks the cryptographic history and versioning for the song **Qesset Hob** (qesset-hob).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:19:00.798053 | `v1` | `caae9206afd9f8c0b6e2ab06e191165aefd65626981cd945ba6c7f8e41b8a77c` | `8cdd25acbb985a554fa941efaf32fefbb33f6d2ff83dc0cfae883d2fb6de74fe` | `2026-05-09_qesset-hob-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
